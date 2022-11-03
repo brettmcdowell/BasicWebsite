@@ -1,0 +1,157 @@
+/*
+Header Formatting: 
+https://www.w3schools.com/html/html_headings.asp
+Curved Header Formatting and Implementation: 
+https://www.youtube.com/watch?v=3owx2vJHkv4
+https://getwaves.io/
+Margin-Left:
+https://www.w3schools.com/cssref/pr_margin-left.php
+Fonts:
+https://www.w3schools.com/w3css/w3css_fonts.asp
+Italicized Text:
+https://blog.hubspot.com/website/how-to-bold-in-html#:~:text=To%20italicize%20the%20text%20in,property%20set%20to%20%E2%80%9Citalic.%E2%80%9D
+Embedded Video Formatting:
+https://css-tricks.com/fluid-width-video/
+*/
+
+.curved {
+  background:#5000ca;
+  color:rgb(241, 241, 241);
+  text-align: center;
+  font-family:'Times New Roman', Times, serif
+}
+
+body {
+  background-color: #212529;
+  }
+
+.curved h1 {
+  font-size: 6rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top:0;
+  margin-bottom:0;
+}
+
+.curved p {
+  font-size: 1rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-bottom: 0;
+}
+
+.curved svg {
+  display: block;
+}
+
+.curved.upper {
+  background: #fff;
+}
+
+  
+.marginsContent {
+    margin-top: 2%;
+    margin-left: 8%;
+    margin-right: 8%;
+    font-style:italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-size: 250%;
+    color:#fff;
+  }
+
+  .marginsContent2 {
+    text-align:center;
+    margin-top: 2%;
+    margin-left: 8%;
+    margin-right: 8%;
+    font-style:bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 250%;
+    color:#fff;
+  }
+
+ .DefinitionContent {
+    margin-left: 1%;
+    margin-top: 2%;
+    margin-left: 8%;
+    margin-right: 8%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+    color:#fff;
+  }
+
+.ExampleContent {
+    margin-left: 1%;
+    margin-top: 2%;
+    margin-left: 8%;
+    margin-right: 8%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+    color:#fff;
+  }
+
+.CounterActionContent {
+    margin-left: 1%;
+    margin-top: 2%;
+    margin-left: 8%;
+    margin-right: 8%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 250%;
+    color:#fff;
+  }
+
+.lead {
+    margin-left: 1%;
+    margin-top: 2%;
+    font-size: 140%;
+    font-style:italic;
+    color:#fff;
+    margin-left: 8%;
+    margin-right: 8%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+hr.rounded {
+  border-top: 6px solid rgb(54, 52, 52);
+  border-radius: 3px;
+}
+
+.card-img-top {
+  max-height: 250px;
+  overflow: hidden;
+}
+
+.GeneralText {
+  margin-top: 2%;
+  font-style:normal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 100%;
+  color:#fff;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.FormInformation {
+  margin-top: 2%;
+  font-style:normal;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 200%;
+  color:#fff;
+  margin-left: 8%;
+  margin-right: 8%;
+  text-align:center;
+}
+
+
