@@ -1,0 +1,44 @@
+Header:
+https://www.w3schools.com/html/html_headings.asp
+Favicon:
+https://www.w3schools.com/html/html_favicon.asp
+Curved Header Format:
+https://www.youtube.com/watch?v=3owx2vJHkv4
+Margin-Left:
+https://www.w3schools.com/cssref/pr_margin-left.php
+Fonts:
+https://www.w3schools.com/w3css/w3css_fonts.asp
+Italicized Text:
+https://blog.hubspot.com/website/how-to-bold-in-html#:~:text=To%20italicize%20the%20text%20in,property%20set%20to%20%E2%80%9Citalic.%E2%80%9D
+Boostrap:
+https://getbootstrap.com/docs/5.2/getting-started/introduction/
+Boostrap Dropdown Menu:
+https://getbootstrap.com/docs/4.0/components/dropdowns/
+Background Image Formatting:
+https://www.w3schools.com/html/html_images_background.asp
+CSS Dividers:
+https://www.w3schools.com/howto/howto_css_dividers.asp
+Navbar:
+https://getbootstrap.com/docs/4.0/components/navbar/
+Malware Information:
+https://www.cisco.com/c/en/us/products/security/advanced-malware-protection/what-is-malware.html
+Image Gallery:
+https://gosnippets.com/snippets/bootstrap-5-cards-gallery
+Virus Information:
+https://en.wikipedia.org/wiki/Computer_virus
+Worms Information:
+https://en.wikipedia.org/wiki/Computer_worm
+Trojan Horses Information:
+https://www.fortinet.com/resources/cyberglossary/trojan-horse-virus
+Embedded Video:
+https://css-tricks.com/fluid-width-video/
+White-Hat Hacking:
+https://en.wikipedia.org/wiki/White_hat_(computer_security)
+Black-Hat Hacking:
+https://en.wikipedia.org/wiki/Black_hat_(computer_security)
+Wave-Shapes:
+https://getwaves.io/
+Forms:
+https://www.w3schools.com/html/html_forms.asp
+
+
